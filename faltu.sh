@@ -7,7 +7,7 @@ echo ""
 echo "Select option"
 echo "1. seeker "
 echo "2. pro "
-read -p "Enter your option " option
+read -p " Enter your option " option
 if [ "$option " = "1 " ];
          then 
       echo " git clone https://github.com/thewhiteh4t/seeker.git
